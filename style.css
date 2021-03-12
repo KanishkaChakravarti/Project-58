@@ -1,0 +1,33 @@
+.line{
+    height:6px;
+    background-color:black;
+    width:70px;
+}
+#bio {
+    font-size:42;
+    text-align: center;
+    padding:50px;
+
+}
+.menu{
+    list-style:none;
+    float:right;
+    top:10px;
+    cursor:pointer;
+    z-index:10;
+    position:absolute;
+
+}
+.links{
+    float:left;
+    color:purple;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:9px;
+    padding-right:9px;
+}
+.linka:hover{
+    font-size:25px;
+    text-decoration:underline;
+    font-family:fantasy
+}
